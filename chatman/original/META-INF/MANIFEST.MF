@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/Mensly/dota.mp3
+SHA1-Digest: MP+AFHqP5wW7T2UaoxdvhmW3arU=
+
+Name: assets/Chatman/ghostnappa.mp3
+SHA1-Digest: SblaZiNnVzLARCFYOHgXGqND3sQ=
+
+Name: assets/Jason/ghostnappa.mp3
+SHA1-Digest: U40vLQT4Avo8XGE1pnqzUmu5qVI=
+
+Name: assets/Jason/chatman.mp3
+SHA1-Digest: 6vZV4b6JFlLbayIh28ZuPaql+yE=
+
+Name: assets/Picard/shutup.mp3
+SHA1-Digest: zHTX17nJeMJtMMFUNisQcKiLAmA=
+
+Name: resources.arsc
+SHA1-Digest: 8PrOj/FVmTxq/lGDW2Y3/LSBOUg=
+
+Name: assets/YouTube/ghostnappa.mp3
+SHA1-Digest: 5360HingYlAjIXCRKVLZ//jYksg=
+
+Name: assets/Picard/ghostnappa.mp3
+SHA1-Digest: VDLBZ70EU78K0icIzAlnOZ2nIdE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: VY4BmmDL2FeERN2Sbxg+1rg1+xM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: rM4GngFPrLpSiKOd2+i6AmGRHIA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: UEgGQIkf0/nHcdgJIl1DrzY2RWE=
+
+Name: assets/Chatman/dota.mp3
+SHA1-Digest: BQ6QZdTq+gEyQUy+mrgsx2/2EPk=
+
+Name: assets/Jason/dota.mp3
+SHA1-Digest: SG8O2y0czh8oYtmQX+F1ReY6ghg=
+
+Name: assets/Picard/chatman.mp3
+SHA1-Digest: Amk+WXfw5DriGuatrfgCyJiz5Ug=
+
+Name: assets/Group/ghostnappa.mp3
+SHA1-Digest: ETd4A3z/mj3/g+e1VWQ/c6LxF6o=
+
+Name: assets/YouTube/dota.mp3
+SHA1-Digest: hKiOprhSaSE5I/BWjOYfUKxl7dA=
+
+Name: res/menu/menu.xml
+SHA1-Digest: MUKdHkHBKxZLnwtsxtIxD7C4w98=
+
+Name: assets/Mensly/chatman.mp3
+SHA1-Digest: +zmGiaW1PLA92qBInzN13MJ/ACQ=
+
+Name: assets/Picard/dota.mp3
+SHA1-Digest: StacZ1PywUPJCW8cPa+eHV9tfc0=
+
+Name: assets/Group/chatman.mp3
+SHA1-Digest: b5BmJXhgnWIYuEqR6zAyW4bxjsw=
+
+Name: classes.dex
+SHA1-Digest: 2CgcshUmUEC0A2AxJS+L+ZJHONI=
+
+Name: assets/YouTube/chatman.mp3
+SHA1-Digest: LD39jGBY9VCJaF17JiFWKX9edbA=
+
+Name: assets/Chatman/chatman.mp3
+SHA1-Digest: z1OJQmbowbhjyx64oYEaipCg5NU=
+
+Name: assets/Group/dota.mp3
+SHA1-Digest: XbUf+aQ8YO2+iBduCTBwiT5Q630=
+
+Name: assets/Mensly/ghostnappa.mp3
+SHA1-Digest: gefpuReZdxkgFrEc8q1h1g4FtJI=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: FBbKHF8GYIAXLx9UXmLoNDj8tmw=
+
