@@ -5,6 +5,7 @@
         <item>DOTA</item>
         <item>GHOST NAPPA</item>
         <item>GO SNAPPER</item>
+	<item>Choose Theme…</item>
     </string-array>
     <string-array name="soundFiles">
         <item>chatman.mp3</item>

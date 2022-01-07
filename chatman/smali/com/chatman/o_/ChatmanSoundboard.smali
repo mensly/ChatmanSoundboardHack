@@ -194,6 +194,16 @@
     return v0
 .end method
 
+.method static synthetic access$69(Lcom/chatman/o_/ChatmanSoundboard;)V
+    .locals 1
+
+    .prologue
+    .line 107
+    invoke-direct {p0}, Lcom/chatman/o_/ChatmanSoundboard;->chooseTheme()V
+
+    return-void
+.end method
+
 .method static synthetic access$7(Lcom/chatman/o_/ChatmanSoundboard;I)V
     .locals 0
 
@@ -510,8 +520,6 @@
     invoke-virtual {v1, v2}, Landroid/content/res/Resources;->getStringArray(I)[Ljava/lang/String;
 
     move-result-object v2
-
-    const v1, "Choose Theme..."
 
     iput-object v2, p0, Lcom/chatman/o_/ChatmanSoundboard;->soundNames:[Ljava/lang/String;
 

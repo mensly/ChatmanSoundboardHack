@@ -97,7 +97,14 @@
     .line 92
     invoke-virtual {v0}, Landroid/widget/Toast;->show()V
 
+    return-void
+
     .line 95
     :cond_0
+
+    iget-object v0, p0, Lcom/chatman/o_/ChatmanSoundboard$2;->this$0:Lcom/chatman/o_/ChatmanSoundboard;
+
+    invoke-static {v0}, Lcom/chatman/o_/ChatmanSoundboard;->access$69(Lcom/chatman/o_/ChatmanSoundboard;)V
+
     return-void
 .end method
