@@ -66,45 +66,20 @@
 
     long-to-int v1, p4
 
+    const v2, 1
+    sub-int v1, v1, v2
+
     invoke-static {v0, v1}, Lcom/chatman/o_/ChatmanSoundboard;->access$6(Lcom/chatman/o_/ChatmanSoundboard;I)Z
 
     move-result v0
 
     if-nez v0, :cond_0
 
-    .line 91
-    iget-object v0, p0, Lcom/chatman/o_/ChatmanSoundboard$2;->this$0:Lcom/chatman/o_/ChatmanSoundboard;
-
-    invoke-virtual {v0}, Lcom/chatman/o_/ChatmanSoundboard;->getApplicationContext()Landroid/content/Context;
-
-    move-result-object v0
-
-    check-cast p2, Landroid/widget/TextView;
-
-    .end local p2    # "view":Landroid/view/View;
-    invoke-virtual {p2}, Landroid/widget/TextView;->getText()Ljava/lang/CharSequence;
-
-    move-result-object v1
-
-    .line 92
-    const/4 v2, 0x0
-
-    .line 91
-    invoke-static {v0, v1, v2}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
-
-    move-result-object v0
-
-    .line 92
-    invoke-virtual {v0}, Landroid/widget/Toast;->show()V
-
-    return-void
-
-    .line 95
-    :cond_0
-
     iget-object v0, p0, Lcom/chatman/o_/ChatmanSoundboard$2;->this$0:Lcom/chatman/o_/ChatmanSoundboard;
 
     invoke-static {v0}, Lcom/chatman/o_/ChatmanSoundboard;->access$69(Lcom/chatman/o_/ChatmanSoundboard;)V
+
+    :cond_0
 
     return-void
 .end method

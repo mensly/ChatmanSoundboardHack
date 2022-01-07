@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="soundNames">
+	<item>Choose Theme…</item>
         <item>CHATMAN</item>
         <item>DOTA</item>
         <item>GHOST NAPPA</item>
         <item>GO SNAPPER</item>
-	<item>Choose Theme…</item>
     </string-array>
     <string-array name="soundFiles">
         <item>chatman.mp3</item>
